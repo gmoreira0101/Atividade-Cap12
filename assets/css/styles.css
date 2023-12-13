@@ -1,0 +1,12 @@
+body {
+    background-color: #3498db;
+    color: #fff;
+  }
+
+.container {
+    margin-top: 100px;
+}
+
+a {
+    justify-content: center;
+}
